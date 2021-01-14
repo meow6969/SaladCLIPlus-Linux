@@ -11,16 +11,16 @@ Salad CLI+ is basically [salad](https://github.com/SaladTechnologies/salad-appli
 Salad: https://github.com/SaladTechnologies/salad-applications
 
 
-#How to install Salad CLI+
+# How to install Salad CLI+
 1. Download the [latest release](https://github.com/Walker21390/SaladCLI/releases "latest release") of Salad CLI+
 2. Unzip the **Salad CLI.zip** file
 3. Put your Salad AUTH code in the **Config.json**
 4. Run **Start.py** with [Python](https://www.python.org "Python")
 
-###YOU NEED TO HAVE SALAD.IO INSTALLED TO MINE WITH SALAD CLI+!
+### YOU NEED TO HAVE SALAD.IO INSTALLED TO MINE WITH SALAD CLI+!
 
 
-###How to setup the config.json?
+### How to setup the config.json?
 + **Where to put your Salad AUTH?
 	* Replace `Your Salad AUTH` with your Salad AUTH code!
 
