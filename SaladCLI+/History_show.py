@@ -12,7 +12,6 @@ from time import sleep
 #This very epic thing is made by SharkOfGod!
 
 sys.stdout.write("\x1b]2;Earning History\x07")
-os.system(cmd)
 
 height, file, sdate, month, color, mini, monthly, weekly, rev = None, None, None, None, None, False, False, False, False
 parser = argparse.ArgumentParser(description='salad graph thing')

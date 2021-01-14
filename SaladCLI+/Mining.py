@@ -5,7 +5,6 @@ import sys
 from time import sleep
 import json
 
-os.system(cmd)
 sys.stdout.write("\x1b]2;Choose miner...\x07")
 refresh_time = 15  # seconds
 color = '0A'  # like u would type "color 0A" into cmd / leave empty for default
