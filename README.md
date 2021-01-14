@@ -49,8 +49,8 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 
 * Find your Wallet Address.
 	+ In notepad press `ctrl+f` and search `wallet`.
-		- You will find `Nicehash wallet address` and `Nicehash worker id`.
-	+ Copy your Nicehash wallet address and Nicehash worker id and put them in a .txt file in this order: `WalletAddress.WorkerId`
+		- You will find `Nicehash wallet address` and `Nicehash rig id`.
+	+ Copy your Nicehash wallet address and Nicehash worker id and put them in a .txt file in this order: `WalletAddress.RigId`
 		
 		- Copy this code and boom, you have your wallet address!
 		
