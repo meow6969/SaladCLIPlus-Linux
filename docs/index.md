@@ -43,7 +43,7 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 * Open salad.io and start mining, wait 30 seconds and then close salad.
 
 * Open your salad logs.
-	+ Press ` win+r` on your keyboard or launch run via windows search.
+	+ Press `win+r` on your keyboard or launch `run` via windows search.
 	+ Type `%appdata%\salad\logs\main.log` and press enter.
 		- This will open your logs.
 
