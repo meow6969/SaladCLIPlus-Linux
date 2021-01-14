@@ -5,14 +5,9 @@ import sys
 from time import sleep
 import json
 
-cmd = 'mode 38,24'
 os.system(cmd)
 sys.stdout.write("\x1b]2;Lifetime\x07")
-
-
 refresh_time = 15  # seconds
-
-
 color = '0A'  # like u would type "color 0A" into cmd / leave empty for default
 
 

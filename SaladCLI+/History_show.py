@@ -11,7 +11,6 @@ from time import sleep
 
 #This very epic thing is made by SharkOfGod!
 
-cmd = 'mode 200,35'
 sys.stdout.write("\x1b]2;Earning History\x07")
 os.system(cmd)
 
