@@ -5,14 +5,8 @@ import sys
 from time import sleep
 import json
 
-cmd = 'mode 38,24'
-os.system(cmd)
 sys.stdout.write("\x1b]2;Current Balance\x07")
-
-
 refresh_time = 15  # seconds
-
-
 color = '0A'  # like u would type "color 0A" into cmd / leave empty for default
 
 
@@ -49,6 +43,6 @@ def main():
 			print('Press ctrl+c to Return!')
 			sleep(5)
 		except KeyboardInterrupt:
-			print("Quiting...")
+			print("Quitting...")
 			os.system('python "Start.py"')
 main()

@@ -11,9 +11,7 @@ from time import sleep
 
 #This very epic thing is made by SharkOfGod!
 
-cmd = 'mode 200,35'
 sys.stdout.write("\x1b]2;Earning History\x07")
-os.system(cmd)
 
 height, file, sdate, month, color, mini, monthly, weekly, rev = None, None, None, None, None, False, False, False, False
 parser = argparse.ArgumentParser(description='salad graph thing')
@@ -323,5 +321,5 @@ while True:
 	try:
 		sleep(5)
 	except KeyboardInterrupt:
-		print("Quiting...")
+		print("Quitting...")
 		os.system('python "Start.py"')
