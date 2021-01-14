@@ -21,10 +21,11 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 
 
 ### How to setup the config.json?
-+ **Where to put your Salad AUTH?
+
++ Where to put your Salad AUTH?
 	* Replace `Your Salad AUTH` with your Salad AUTH code!
 
-+ **How to find your Salad AUTH?
++ How to find your Salad AUTH?
 	* Go to [app.salad.io](https://app.salad.io "app.salad.io") and login with your Salad account.
 	* Click on the Cookies icon: ![](https://images-ext-2.discordapp.net/external/307zW6hU-4O2g0TaCN3VXR29D-byDrPOxcvtV7k5fTs/https/i.imgur.com/rCpRXdW.png) on the left of the address bar.
 	* Click on Cookies.
@@ -33,4 +34,4 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 	* Click on `Salad.Authentication`.
 	* **Double click** on the **Content** in the `Salad.Authentication` folder.
 	* Right click, and copy!
-* **If you need more help finding your Salad AUTH, dm Walkx#0069 or SharkOfGod#8424 on discord.
+**If you need more help finding your Salad AUTH, dm Walkx#0069 or SharkOfGod#8424 on discord.
