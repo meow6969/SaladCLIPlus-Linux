@@ -5,7 +5,7 @@ import sys
 from time import sleep
 import json
 
-cmd = 'mode 73,6'
+cmd = 'mode 73,6' #this turns your terminal into a phone screen.
 os.system(cmd)
 sys.stdout.write("\x1b]2;Choose miner...\x07")
 
