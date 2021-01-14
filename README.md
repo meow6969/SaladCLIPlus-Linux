@@ -35,4 +35,4 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 	* **Double click** on the **Content** in the `Salad.Authentication` folder.
 	* Right click, and copy!
 
-**If you need more help finding your Salad AUTH, dm Walkx#0069 or SharkOfGod#8424 on discord.
+### If you need more help finding your Salad AUTH, dm Walkx#0069 or SharkOfGod#8424 on discord!
