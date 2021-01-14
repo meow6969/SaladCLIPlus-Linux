@@ -29,6 +29,6 @@ if select == "2" or select == "XMrig":
 	os.system(r"%appdata%\salad\plugin-bin\XMRig-CPU-6.7.0\xmrig.exe --donate-level=1 -o stratum+tcp://randomxmonero.usa.nicehash.com:3380 --coin=monero -u "+ (xmrwallet) + " -k --nicehash -o stratum+tcp://randomxmonero")
 
 if select == "3" or select == "Return":
-	print("Quiting...")
+	print("Quitting...")
 	time.sleep(1)
 	os.system("py Start.py")

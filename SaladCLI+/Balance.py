@@ -43,6 +43,6 @@ def main():
 			print('Press ctrl+c to Return!')
 			sleep(5)
 		except KeyboardInterrupt:
-			print("Quiting...")
+			print("Quitting...")
 			os.system('python "Start.py"')
 main()

@@ -321,5 +321,5 @@ while True:
 	try:
 		sleep(5)
 	except KeyboardInterrupt:
-		print("Quiting...")
+		print("Quitting...")
 		os.system('python "Start.py"')
