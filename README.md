@@ -37,3 +37,21 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 	* Right click, and copy!
 
 #### If you need more help finding your Salad AUTH, dm Walkx#0069 or SharkOfGod#8424 on discord!
+
+
+# How to find your Wallet Address?
+* Open salad.io and start mining, wait 30 seconds and then close salad.
+
+* Open your salad logs.
+	+ Press ` win+r` on your keyboard or launch `run` via windows search.
+	+ Type `%appdata%\salad\logs\main.log` and press enter.
+		- This will open your logs.
+
+* Find your Wallet Address.
+	+ In notepad press `ctrl+f` and search `wallet`.
+		- You will find `Nicehash wallet address` and `Nicehash worker id`.
+	+ Copy your Nicehash wallet address and Nicehash worker id and put them in a .txt file in this order: `WalletAddress.WorkerId`
+		
+		- Copy this code and boom, you have your wallet address!
+		
+#### If you need more help finding your WalletAddress, dm Walkx#0069 or SharkOfGod#8424 on discord!
