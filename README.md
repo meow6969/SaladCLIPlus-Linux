@@ -18,7 +18,7 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 3. Put your Salad AUTH code in the **Config.json**
 4. Run **Start.py** with [Python](https://www.python.org "Python")
 
-### YOU NEED TO HAVE SALAD.IO INSTALLED TO MINE WITH SALAD CLI+!
+#### YOU NEED TO HAVE SALAD.IO INSTALLED TO MINE WITH SALAD CLI+!
 
 
 # How to setup the config.json?
@@ -36,4 +36,4 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 	* **Double click** on the **Content** in the `Salad.Authentication` folder.
 	* Right click, and copy!
 
-### If you need more help finding your Salad AUTH, dm Walkx#0069 or SharkOfGod#8424 on discord!
+#### If you need more help finding your Salad AUTH, dm Walkx#0069 or SharkOfGod#8424 on discord!
