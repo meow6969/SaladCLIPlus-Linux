@@ -21,7 +21,7 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 #### YOU NEED TO HAVE SALAD.IO INSTALLED TO MINE WITH SALAD CLI+!
 
 
-# How to setup the config.json?
+## How to setup the config.json?
 
 + Where to put your Salad AUTH?
 	* Replace `Your Salad AUTH` with your Salad AUTH code!
@@ -39,7 +39,7 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 #### If you need more help finding your Salad AUTH, dm Walkx#0069 or SharkOfGod#8424 on discord!
 
 
-# How to find your Wallet Address?
+## How to find your Wallet Address?
 * Open salad.io and start mining, wait 30 seconds and then close salad.
 
 * Open your salad logs.
