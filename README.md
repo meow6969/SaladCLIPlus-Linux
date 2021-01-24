@@ -1,3 +1,5 @@
+## [COMMON BUGS](https://github.com/Walker21390/SaladCLI_Plus/blob/main/CommonBugs.md)
+
 ### Salad CLI+
 
 ![](https://img.shields.io/github/stars/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/forks/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/tag/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/release/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/issues/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/license/Walker21390/SaladCLI_Plus.svg)
@@ -9,8 +11,6 @@
 Salad CLI+ is basically [salad](https://github.com/SaladTechnologies/salad-applications "salad"), but in your terminal!
 
 Salad: https://github.com/SaladTechnologies/salad-applications
-
-COMMON BUGS: https://github.com/Walker21390/SaladCLI_Plus/blob/main/CommonBugs.md
 
 
 # How to install Salad CLI+
