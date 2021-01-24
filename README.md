@@ -10,6 +10,8 @@ Salad CLI+ is basically [salad](https://github.com/SaladTechnologies/salad-appli
 
 Salad: https://github.com/SaladTechnologies/salad-applications
 
+COMMON BUGS: https://github.com/Walker21390/SaladCLI_Plus/blob/main/CommonBugs.md
+
 
 # How to install Salad CLI+
 
