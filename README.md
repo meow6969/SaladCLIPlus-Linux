@@ -17,7 +17,8 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 2. Unzip the **Salad CLI.zip** file
 3. Rename **example-config.json** to **config.json**
 4. Put your Salad AUTH code in **config.json**
-5. Run **Start.py** with [Python](https://www.python.org "Python")
+5. Run **Setup.py** with [Python](https://www.python.org "Python")
+6. Run **Start.py** with [Python](https://www.python.org "Python")
 
 #### MAKE SURE YOU HAVE [PYTHON INSTALLED TO PATH!](https://datatofish.com/add-python-to-windows-path)
 #### YOU NEED TO HAVE SALAD.IO INSTALLED TO MINE WITH SALAD CLI+!
