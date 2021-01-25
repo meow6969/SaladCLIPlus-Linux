@@ -17,7 +17,7 @@
 
 
 
-## The setup.py immediately closes after launching:
+## The setup.py immediately closes after launching or gives an error:
 - Make sure you have python installed to PATH! https://datatofish.com/add-python-to-windows-path/
 
 
