@@ -19,8 +19,3 @@
 
 ## The setup.py immediately closes after launching or gives an error:
 - Make sure you have python installed to PATH! https://datatofish.com/add-python-to-windows-path/
-
-
-
-## I'm on linux and it doesn't work, how can i mine?:
-- DM me on discord! Walkx#0069
