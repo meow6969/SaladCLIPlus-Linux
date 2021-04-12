@@ -10,6 +10,8 @@
 
 Salad CLI+ is basically [salad](https://github.com/SaladTechnologies/salad-applications "salad"), but in your terminal!
 
+This project is based off of https://github.com/Walker21390/SaladCLI_Plus - this is only a version for linux systems
+
 Salad: https://github.com/SaladTechnologies/salad-applications
 
 
