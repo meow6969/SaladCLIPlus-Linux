@@ -2,7 +2,6 @@ import sys
 import os
 import json
 
-
 try:
     from utils import Start
     from utils import Balance
@@ -61,12 +60,11 @@ from utils import Lifetime
 from utils import salad_earnings_update
 import pyperclip
 
-
 while True:
     info = Start.get_info()
     dun = False
     while not dun:
-        os.system('clear')
+        # os.system('clear')
         action = Start.starting(info)
         try:
             int(action)

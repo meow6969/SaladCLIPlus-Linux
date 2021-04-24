@@ -169,11 +169,11 @@ nums = 0
 if color:
     print(color, end='\r')
 
-with open('art.txt', encoding='utf-8') as f:
+with open('utils/art.txt', encoding='utf-8') as f:
     art = f.read()
 
-color = '0A'
-os.system('color ' + color)
+color = "\033[32m"
+os.system('echo ' + color)
 
 print(art)
 
@@ -296,6 +296,4 @@ else:
             print(text)
     print(' ')
     print('-------------------------------------')
-    print()
-
-sleep(2)
+    input()

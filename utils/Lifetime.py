@@ -24,20 +24,17 @@ def Salad_Lifetime():
         art = f.read()
     os.system('echo ' + color)
 
-    def main():
-        os.system('clear')
-        rbal = requests.get(url='https://app-api.salad.io/api/v1/profile/balance', headers=headers, cookies=cookie)
-        if rbal.status_code != 200:
-            print('REPLACE YOUR SALAD AUTH CODE!')
-            os.system('pause')
-            exit()
-        rbal = rbal.json()
+    os.system('clear')
+    rbal = requests.get(url='https://app-api.salad.io/api/v1/profile/balance', headers=headers, cookies=cookie)
+    if rbal.status_code != 200:
+        print('REPLACE YOUR SALAD AUTH CODE!')
+        os.system('pause')
+        exit()
+    rbal = rbal.json()
 
-        print(art)
+    print(art)
 
-        print('Lifetime balance: $' + str(rbal['lifetimeBalance']))
-        print(' ')
-        print('-------------------------------------')
-        time.sleep(2)
-
-    main()
+    print('Lifetime balance: $' + str(rbal['lifetimeBalance']))
+    print(' ')
+    print('-------------------------------------')
+    input()

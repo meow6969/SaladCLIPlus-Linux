@@ -7,3 +7,8 @@ SaladCLI+/config.json
 +utils/__pycache__
 *.pyc
 *.xml
+config.json
+data.json
+phoenixlog.txt
+phoenixlog.txt
+phoenixlog.txt

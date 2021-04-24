@@ -5,7 +5,7 @@ import sys
 import os
 
 
-def Salad_Earings():
+def Salad_Earnings():
     sys.stdout.write("\x1b]2;Downloading History\x07")
 
     headers = {
@@ -28,4 +28,4 @@ def Salad_Earings():
     print('Downloading data...')
     time.sleep(2)
 
-    os.system('python3 History_show.py --asd -f data.json --smh -min -rev')
+    os.system('python3 utils/History_show.py --asd -f data.json --smh -min -rev')

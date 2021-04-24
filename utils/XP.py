@@ -23,18 +23,15 @@ def Salad_XP():
         art = f.read()
     os.system('echo ' + color)
 
-    def main():
-        os.system('clear')
-        rxp = requests.get(url='https://app-api.salad.io/api/v1/profile/xp', headers=headers, cookies=cookie)
+    os.system('clear')
+    rxp = requests.get(url='https://app-api.salad.io/api/v1/profile/xp', headers=headers, cookies=cookie)
 
-        rxp = rxp.json()
+    rxp = rxp.json()
 
-        print(art)
+    print(art)
 
-        print('Experience: ' + str(rxp['lifetimeXp']) + 'XP')
-        print(' ')
-        print('-------------------------------------')
+    print('Experience: ' + str(rxp['lifetimeXp']) + 'XP')
+    print(' ')
+    print('-------------------------------------')
 
-        time.sleep(2)
-
-    main()
+    input()
