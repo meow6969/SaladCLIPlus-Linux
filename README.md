@@ -2,8 +2,6 @@
 
 ### Salad CLI+
 
-![](https://img.shields.io/github/stars/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/forks/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/tag/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/release/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/issues/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/license/Walker21390/SaladCLI_Plus.svg)
-
 # Info
 
 ![](https://images-ext-1.discordapp.net/external/yqIjShhLc2LS-3pWSlAm90wKf18MTOzYfG37L_IV2_o/https/i.imgur.com/6cnWZhQ.png)
@@ -17,22 +15,14 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 
 # How to install Salad CLI+
 
-1. Download the [latest release](https://github.com/Walker21390/SaladCLI/releases "latest release") of Salad CLI+
-2. Unzip the **Salad CLI.zip** file
-3. Rename **example-config.json** to **config.json**
-4. Put your Salad AUTH code in **config.json**
-5. Put your Salad Wallet in **config.json**
-6. Run **Setup.py** with [Python](https://www.python.org "Python")
-7. Run **Start.py** with [Python](https://www.python.org "Python")
+1. Clone this repository
+2. Run main.py
 
-#### MAKE SURE YOU HAVE [PYTHON INSTALLED TO PATH!](https://datatofish.com/add-python-to-windows-path)
-#### YOU NEED TO HAVE SALAD.IO INSTALLED TO MINE WITH SALAD CLI+!
+#### MAKE SURE YOU HAVE PYTHON INSTALLED TO PATH!
 
 
-## How to setup the config.json?
+## How to do the initial setup?
 
-+ Where to put your Salad Auth?
-	* Replace `Your Salad Auth` with your Salad Auth code!
 
 + How to find your Salad Auth?
 	* Go to [app.salad.io](https://app.salad.io "app.salad.io") and login with your Salad account.
@@ -51,15 +41,10 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 * Open salad.io and start mining, wait 30 seconds and then close salad.
 
 * Open your salad logs.
-	+ Press ` win+r` on your keyboard or launch `run` via windows search.
-	+ Type `%appdata%\salad\logs\main.log` and press enter.
-		- This will open your logs.
 
 * Find your Wallet Address.
 	+ In notepad press `ctrl+f` and search `wallet`.
 		- You will find `Nicehash wallet address` and `Nicehash rig id`.
-	+ Copy your Nicehash wallet address and Nicehash worker id and put them in a .txt file in this order: `WalletAddress.RigId`
-		
-		- Copy this code and boom, you have your wallet address!
+	+ your wallet address will be as follows: "<Nicehash wallet address>.<Nicehash rig id>
 		
 #### If you need more help finding your WalletAddress, dm Walkx#0069 or SharkOfGod#8424 on discord!
