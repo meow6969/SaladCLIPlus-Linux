@@ -1,6 +1,0 @@
-2021.04.24:07:55:34.090: main Phoenix Miner 5.5c Linux/gcc - Release build
-2021.04.24:07:55:34.090: main Cmd line: -logfile phoenixlog.txt -rmode 0 -rvram 1 -pool stratum+tcp://daggerhashimoto.usa.nicehash.com:3353 -pool2 stratum+tcp://daggerhashimoto.eu.nicehash.com:3353 -ewal aewrhuyaeru -esm 3 -allpools 1 -allcoins 0 
-2021.04.24:07:55:34.098: main No CUDA driver found
-2021.04.24:07:55:34.126: main No OpenCL platforms found
-2021.04.24:07:55:34.126: main No avaiable GPUs for mining. Please check your drivers and/or hardware.
-2021.04.24:07:55:34.126: main Exit code: 8
