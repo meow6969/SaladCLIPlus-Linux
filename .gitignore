@@ -2,3 +2,4 @@ SaladCLI+/data.json
 SaladCLI+/config.json
 +.idea
 +.gitignore
++utils/config.json
