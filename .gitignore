@@ -3,3 +3,7 @@ SaladCLI+/config.json
 +.idea
 +.gitignore
 +utils/config.json
++config.json
++utils/__pycache__
+*.pyc
+*.xml

@@ -19,7 +19,7 @@ def Salad_XP():
         "User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Salad/0.4.2'
                       ' Chrome/78.0.3904.130 Electron/7.1.9 Safari/537.36'
     }
-    with open('art.txt', encoding='utf-8') as f:
+    with open('utils/art.txt', encoding='utf-8') as f:
         art = f.read()
     os.system('echo ' + color)
 

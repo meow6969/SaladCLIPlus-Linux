@@ -20,7 +20,8 @@ def Salad_Earings():
         "Salad.Authentication": salad_auth
     }
 
-    r = requests.get(url='https://app-api.salad.io/api/v2/reports/1-day-earning-history', cookies=cookie, headers=headers)
+    r = requests.get(url='https://app-api.salad.io/api/v2/reports/1-day-earning-history', cookies=cookie,
+                     headers=headers)
     jason = r.json()
     with open('data.json', 'w+') as f:
         f.write(json.dumps(jason))
