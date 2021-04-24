@@ -2,8 +2,6 @@
 
 ### Salad CLI+
 
-![](https://img.shields.io/github/stars/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/forks/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/tag/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/release/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/issues/Walker21390/SaladCLI_Plus.svg) ![](https://img.shields.io/github/license/Walker21390/SaladCLI_Plus.svg)
-
 # Info
 
 ![](https://images-ext-1.discordapp.net/external/yqIjShhLc2LS-3pWSlAm90wKf18MTOzYfG37L_IV2_o/https/i.imgur.com/6cnWZhQ.png)
