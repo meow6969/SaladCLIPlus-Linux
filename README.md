@@ -47,4 +47,4 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 		- You will find `Nicehash wallet address` and `Nicehash rig id`.
 	+ your wallet address will be as follows: "<Nicehash wallet address>.<Nicehash rig id>
 		
-#### If you need more help finding your WalletAddress, dm Walkx#0069 or SharkOfGod#8424 on discord!
+#### If you need more help finding your WalletAddress, dm !meow#8650 on discord
