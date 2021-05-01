@@ -1,4 +1,4 @@
-## [COMMON BUGS](https://github.com/Walker21390/SaladCLI_Plus/blob/main/CommonBugs.md)
+## [COMMON BUGS](https://github.com/meow6969/SaladCLIPlus-Linux/blob/main/CommonBugs.md)
 
 ### Salad CLI+
 
