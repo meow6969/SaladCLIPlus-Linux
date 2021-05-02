@@ -34,7 +34,7 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 	* **Double click** on the **Content** in the `Salad.Authentication` folder.
 	* Right click, and copy!
 
-#### If you need more help finding your Salad Auth, dm Walkx#0069 or SharkOfGod#8424 on discord!
+#### If you need more help finding your Salad Auth, dm !meow#8650 on discord!
 
 
 ## How to find your Wallet Address?
