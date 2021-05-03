@@ -45,6 +45,6 @@ Salad: https://github.com/SaladTechnologies/salad-applications
 * Find your Wallet Address.
 	+ In notepad press `ctrl+f` and search `wallet`.
 		- You will find `Nicehash wallet address` and `Nicehash rig id`.
-	+ your wallet address will be as follows: "Nicehash wallet address.Nicehash rig id"
+	+ your wallet address will be as follows: "NicehashWalletAddress.NicehashRigId"
 		
 #### If you need more help finding your WalletAddress, dm !meow#8650 on discord
