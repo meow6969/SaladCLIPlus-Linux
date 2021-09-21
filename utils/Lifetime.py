@@ -13,8 +13,10 @@ def Salad_Lifetime():
     with open('config.json') as f:
         js = json.load(f)
     salad_auth = js['salad_key']
+    salad_refresh_token = js['salad_refresh_token']
     cookie = {
-        "Salad.Authentication": salad_auth
+        "sAccessToken": salad_auth,
+        "sIdRefreshToken": salad_refresh_token
     }
     headers = {
         "User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)'

@@ -16,8 +16,10 @@ def Salad_Earnings():
     with open('config.json') as f:
         js = json.load(f)
     salad_auth = js['salad_key']
+    salad_refresh_token = js['salad_refresh_token']
     cookie = {
-        "Salad.Authentication": salad_auth
+        "sAccessToken": salad_auth,
+        "sIdRefreshToken": salad_refresh_token
     }
 
     r = requests.get(url='https://app-api.salad.io/api/v2/reports/1-day-earning-history', cookies=cookie,

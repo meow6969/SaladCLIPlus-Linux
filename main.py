@@ -23,9 +23,12 @@ def setup():
     sys.stdout.write("\x1b]2;Salad CLI+ SETUP\x07")
     salad_key = input("Insert your salad Authentication token: ")
     wallet = input("Insert your salad wallet address: ")
-    data = {"salad_key": salad_key,
-            "wallet": wallet
-            }
+    refresh_token = input("Insert your salad refresh token: ")
+    data = {
+        "salad_key": salad_key,
+        "wallet": wallet,
+        "salad_refresh_token": refresh_token
+    }
     with open("config.json", "w+") as file:
         json.dump(data, file)
     python_var = input("\nEnter the name of your python prefix (for example \"python3\"): ")
