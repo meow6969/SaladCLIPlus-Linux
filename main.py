@@ -38,6 +38,10 @@ def setup():
     os.system(f"{python_var} -m pip install python-dateutil")
     os.system(f"{python_var} -m pip install argparse")
     os.system(f"{python_var} -m pip install requests")
+    os.system("chmod +x miners/ethminer/ethminer")
+    os.system("chmod +x miners/PhoenixMiner/PhoenixMiner")
+    os.system("chmod +x miners/t-rex/t-rex")
+    os.system("chmod +x miners/XMRig/xmrig")
 
 
 switch = {
